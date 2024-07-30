@@ -28,11 +28,11 @@ module.exports = {
   commandsDir: './commands',  
   embedColor: "#1db954",
   musicardTheme:"themes16", //Goes from themes1 to themes19
-  activityName: "𝒮𝓎𝖙𝒽𝖊", // This is bot status Write Anything here 
-  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/TPBgGX8HPf",
+  activityName: "You", // This is bot status Write Anything here 
+  activityType: "WATCHING",  // Available activity types : LISTENING , PLAYING
+  SupportServer: "https://discord.gg/xQF9f9yUEM",
   CheckmarkIcon: "https://cdn.discordapp.com/attachments/1230824451990622299/1230836684774576168/7762-verified-blue.gif",
-  MusicIcon:"https://cdn.discordapp.com/attachments/1263941942035742742/1264026835566727248/standard_19.gif?ex=66aa37fa&is=66a8e67a&hm=21c6b2f5c3912d0a0e1eacf75a90debbec3f00fd4847d643b4151fa3aa60ebc2&",
+  MusicIcon:"https://media.discordapp.net/attachments/1230824451990622299/1236664581364125787/music-play.gif",
   embedTimeout: 5,  // Timeout before the button interaction embeds are deleted ( Default - 5 seconds)
   errorLog: "", 
 
