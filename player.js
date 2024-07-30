@@ -387,4 +387,3 @@ function initializePlayer(client) {
 }
 
 module.exports = { initializePlayer };
-
