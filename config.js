@@ -31,7 +31,7 @@ module.exports = {
   activityName: "➤ Created by 𝒮𝓎𝖙𝒽𝖊", // This is bot status Write Anything here 
   SupportServer: "https://discord.gg/TPBgGX8HPf",
   CheckmarkIcon: "https://cdn.discordapp.com/attachments/1230824451990622299/1230836684774576168/7762-verified-blue.gif",
-  MusicIcon:"https://cdn.discordapp.com/attachments/1263941942035742742/1263942902816571403/standard_1.gif?ex=66a9e9ce&is=66a8984e&hm=1d8e58a8b159961327db2bce4e8f0aadf9f90a23216a5c657a1f7a25724baf0a&",
+  MusicIcon:"https://cdn.discordapp.com/attachments/1263941942035742742/1264026835566727248/standard_19.gif?ex=66aa37fa&is=66a8e67a&hm=21c6b2f5c3912d0a0e1eacf75a90debbec3f00fd4847d643b4151fa3aa60ebc2&",
   embedTimeout: 5,  // Timeout before the button interaction embeds are deleted ( Default - 5 seconds)
   errorLog: "", 
 
