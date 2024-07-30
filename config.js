@@ -32,7 +32,7 @@ module.exports = {
   activityType: "WATCHING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/TPBgGX8HPf",
   CheckmarkIcon: "https://cdn.discordapp.com/attachments/1230824451990622299/1230836684774576168/7762-verified-blue.gif",
-  MusicIcon:"https://cdn.discordapp.com/attachments/1263941942035742742/1263942902816571403/standard_1.gif?ex=66aa928e&is=66a9410e&hm=dc382bb00d831eb806ba2d71af96959ac975504bd68d3cebf2d416d4ce103d52&",
+  MusicIcon:"https://cdn.discordapp.com/attachments/1263941942035742742/1264026835566727248/standard_19.gif?ex=66aa37fa&is=66a8e67a&hm=21c6b2f5c3912d0a0e1eacf75a90debbec3f00fd4847d643b4151fa3aa60ebc2&",
   embedTimeout: 5,  // Timeout before the button interaction embeds are deleted ( Default - 5 seconds)
   errorLog: "", 
 
