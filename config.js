@@ -28,8 +28,8 @@ module.exports = {
   commandsDir: './commands',  
   embedColor: "#1db954",
   musicardTheme:"themes16", //Goes from themes1 to themes19
-  activityName: "to tunes", // This is bot status Write Anything here 
-  activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
+  activityName: "Youtube", // This is bot status Write Anything here 
+  activityType: "WATCHING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/TPBgGX8HPf",
   CheckmarkIcon: "https://cdn.discordapp.com/attachments/1230824451990622299/1230836684774576168/7762-verified-blue.gif",
   MusicIcon:"https://cdn.discordapp.com/attachments/1263941942035742742/1264026835566727248/standard_19.gif?ex=66aa37fa&is=66a8e67a&hm=21c6b2f5c3912d0a0e1eacf75a90debbec3f00fd4847d643b4151fa3aa60ebc2&",
